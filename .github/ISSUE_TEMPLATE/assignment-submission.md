@@ -1,9 +1,10 @@
 ---
-name: 📝 주차별 과제 제출
+name: "\U0001F4DD 주차별 과제 제출"
 about: 매주 스터디 학습 내용과 과제 링크를 공유합니다.
 title: "[1주차] 이름 - JVM 스터디 과제"
-labels: 'documentation, assignment'
+labels: documentation
 assignees: ''
+
 ---
 
 ## 📅 주차
@@ -22,4 +23,4 @@ assignees: ''
 
 ## 🤔 토론하고 싶은 내용 (어려웠던 점, 실무 적용 아이디어 등)
 > 스터디 모임 시간에 다른 팀원들과 이야기해 보고 싶은 주제나, 공부하면서 이해가 안 됐던 부분을 적어주세요.
-- 
+-
